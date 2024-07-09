@@ -47,7 +47,7 @@ public class Shape {
 	*/
 	
 	//덮어쓰기
-	public void draw() {
+	public void draw() {		
 		
 	}
 	
